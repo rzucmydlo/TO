@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/fabryka/fabryka.iml" filepath="$PROJECT_DIR$/fabryka/fabryka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metoda wytworcza/metoda wytworcza.iml" filepath="$PROJECT_DIR$/metoda wytworcza/metoda wytworcza.iml" />
     </modules>
   </component>
 </project>
